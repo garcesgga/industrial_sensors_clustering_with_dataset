@@ -5,7 +5,7 @@ This notebook project applies **unsupervised machine learning (clustering)** to 
 By using **KMeans** and evaluating with the **silhouette score**, the notebook demonstrates how sensor data can be grouped into clusters that reveal hidden operational patterns or anomalies.
 
 # Technologies Used
-- Python 3.x  
+- Python 3.12  
 - Pandas  
 - NumPy  
 - scikit-learn  
