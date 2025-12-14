@@ -1,2 +1,12 @@
-# industrial_sensors_clustering-with_dataset
-# Industrial Sensors Clustering with Dataset  This notebook applies clustering techniques to a dataset, showing how KMeans can group samples into distinct clusters. Clustering is an unsupervised learning technique that discovers hidden structures in data without labels.
+**Clustering is an unsupervised learning technique that identifies natural groupings in data without predefined labels.**
+
+# Industrial Sensors Clustering
+This notebook project applies **unsupervised machine learning (clustering)** to an industrial sensor dataset.  
+By using **KMeans** and evaluating with the **silhouette score**, the notebook demonstrates how sensor data can be grouped into clusters that reveal hidden operational patterns or anomalies.
+
+# Technologies Used
+- Python 3.x  
+- Pandas  
+- NumPy  
+- scikit-learn  
+- Matplotlib 
